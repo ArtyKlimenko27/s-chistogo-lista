@@ -1,6 +1,6 @@
 ﻿body {
     margin: 0;
-    font-family: 'interregular', Arial, Helvetica, sans-serif;
+    font-family: 'Inter regular', Arial, Helvetica, sans-serif;
     font-weight: normal;
 }
 
@@ -80,7 +80,7 @@ blockquote {
 }
 
 .cover__title {
-    font-family: 'ebgaramondregular';
+    font-family: 'EB Garamond regular';
     font-weight: 400;
     font-size: 72px;
 }
@@ -135,7 +135,7 @@ blockquote {
 }
 
 .content-section__subtitle {
-    font-family: 'ebgaramondmedium';
+    font-family: 'EB Garamond medium';
     font-weight: 500;
     font-size: 28px;
     line-height: 115%;
@@ -204,12 +204,12 @@ blockquote {
 }
 
 .card__author-name {
-    font-family: 'interbold';
+    font-family: 'Inter bold';
     font-size: 16px;
 }
 
 .card__title {
-    font-family: 'ebgaramondmedium';
+    font-family: 'EB Garamond medium';
     font-weight: 500;
     font-size: 22px;
     line-height: 135%;
